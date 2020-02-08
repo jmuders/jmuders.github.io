@@ -16,6 +16,10 @@ body>div.container>div.row.DetailArea>div.col-md-9>div:nth-child(1) {
 }
 
 .Uptime[title^="99.9"] {
+    background-color: lightgreen !important;
+}
+
+.Uptime[title^="99.8"] {
     background-color: orange !important;
 }
 
