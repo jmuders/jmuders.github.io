@@ -1,12 +1,12 @@
-body > div.container > div.row.DetailArea > div.col-md-9 > div:nth-child(1) {
-    visibility:hidden;
-        display: hidden;
-    }
-    
-    #header h1 {
-     padding: 200px;
-    }
-    
-    .container {
-        width: 1300px;
-    }
+body>div.container>div.row.DetailArea>div.col-md-9>div:nth-child(1) {
+    visibility: hidden;
+    display: none;
+}
+
+#header h1 {
+    padding: 0px;
+}
+
+.container {
+    width: 1300px;
+}
