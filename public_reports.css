@@ -12,7 +12,7 @@ body>div.container>div.row.DetailArea>div.col-md-9>div:nth-child(1) {
 }
 
 .Uptime[title^="100"] {
-    background-color: green !important;
+    background-color: lightgreen !important;
 }
 
 .Uptime[title^="99.9"] {
@@ -20,5 +20,10 @@ body>div.container>div.row.DetailArea>div.col-md-9>div:nth-child(1) {
 }
 
 .Uptime {
-    background-color: red;
+    background-color: palevioletred;
+    padding: 2px;
+    border-radius: 5px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
 }
