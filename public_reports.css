@@ -10,3 +10,7 @@ body>div.container>div.row.DetailArea>div.col-md-9>div:nth-child(1) {
 .container {
     width: 1300px;
 }
+
+.Uptime[title^="100%"] {
+    background-color: green;
+}
