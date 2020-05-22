@@ -1,7 +1,7 @@
 body>div.container>div.row.DetailArea>div.col-md-9>div:nth-child(1) {
     visibility: hidden;
     display: none;
-}
+} 
 
 #header h1 {
     padding: 0px;
